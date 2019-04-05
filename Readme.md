@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/AgDataGrid_ConditionalFormatting/MainPage.xaml) (VB: [MainPage.xaml](./VB/AgDataGrid_ConditionalFormatting/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/AgDataGrid_ConditionalFormatting/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/AgDataGrid_ConditionalFormatting/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/AgDataGrid_ConditionalFormatting/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/AgDataGrid_ConditionalFormatting/MainPage.xaml.vb))
 * [Products.cs](./CS/AgDataGrid_ConditionalFormatting/Products.cs) (VB: [Products.vb](./VB/AgDataGrid_ConditionalFormatting/Products.vb))
 <!-- default file list end -->
 # How to Conditionally Apply Styles to Data Cells
